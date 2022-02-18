@@ -1,0 +1,11 @@
+ 	modified:   admin/config.php
+        modified:   catalog/controller/product/product.php
+        modified:   catalog/language/english/english.php
+        modified:   catalog/language/english/product/product.php
+        modified:   catalog/language/russian/product/product.php
+        modified:   catalog/language/russian/russian.php
+        modified:   catalog/model/catalog/product.php
+        modified:   catalog/model/catalog/review.php
+        modified:   catalog/view/theme/default/template/product/product.tpl
+        modified:   catalog/view/theme/default/template/product/review.tpl
+        modified:   config.php
